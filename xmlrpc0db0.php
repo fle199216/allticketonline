@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://allticketonline.site</homePageLink>
+		<homePageLink>https://ticketmasterguru.site</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://allticketonline.site/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://allticketonline.site/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://allticketonline.site/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://allticketonline.site/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://allticketonline.site/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://ticketmasterguru.site/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://ticketmasterguru.site/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://ticketmasterguru.site/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://ticketmasterguru.site/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://ticketmasterguru.site/wp-json/" />
 			</apis>
 	</service>
 </rsd>
